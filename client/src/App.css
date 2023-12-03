@@ -1,0 +1,13 @@
+.lbl {
+  color: red;
+}
+
+thead th,
+thead td,
+tbody td {
+  border: 1px solid black;
+}
+
+.conta {
+  height: 40vh;
+}
